@@ -67,7 +67,7 @@ class AlgoStrategy(gamelib.AlgoCore):
         resources to build and repair the logo before spending them 
         on anything else.
         """
-        self.build_c1_logo(game_state)
+        #self.build_c1_logo(game_state)
 
         """
         Then build additional defenses.
